@@ -3,7 +3,7 @@
 iOS application built with Swift (UIKit) showcasing a list of upcoming sports events.
 
 ## Demo
-[Demo](KG.mov)
+![Demo](KG.gif)
 
 ## Features
 
